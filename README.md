@@ -21,8 +21,8 @@ Meu nome é Kaique Bezerra Santos e esse é o meu perfil do GitHub! Atualmente e
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueSantos2004)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## :bulb: Languages and Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,py,elixir)](https://skillicons.dev)
+## 💡Languages and Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,elixir)](https://skillicons.dev)
 
 
 
