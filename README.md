@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 Meu nome é Kaique Bezerra Santos e esse é o meu perfil do GitHub! Atualmente estou cursando Ciência da Computação na Universidade Federal da Paraíba(UFPB)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueSantos2004)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueSantos2004)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##:bulb:Languages and Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c++,python,elixir)](https://skillicons.dev)
 
 
 
