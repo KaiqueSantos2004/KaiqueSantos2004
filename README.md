@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Meu nome é Kaique Bezerra Santos e esse é o meu perfil do GitHub! Atualmente estou cursando Ciência da Computação na Universidade Federal da Paraíba(UFPB)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaiqueSantos2004)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
